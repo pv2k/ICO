@@ -289,7 +289,7 @@ export default function Home() {
             <div>
               <div className={styles.description}>
                 You have minted {utils.formatEther(balanceOfCryptoDevTokens)} Crypto
-                Dev Tokens
+                Pirate Tokens
               </div>
               <div className={styles.description}>
                 Overall {utils.formatEther(tokensMinted)}/10000 have been minted!!!
